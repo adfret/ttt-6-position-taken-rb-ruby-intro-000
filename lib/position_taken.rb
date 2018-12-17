@@ -1,9 +1,9 @@
 # code your #position_taken? method here!
 def position_taken?(index)
   if index == "X" or index =="O"
-    return false 
+    return false
   elsif index == " "
-    return true 
-  end 
+    return true
+  end
 
 end 
